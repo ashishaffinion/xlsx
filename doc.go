@@ -6,6 +6,6 @@
 // capabilities too.
 //
 // For a concise example of how to use this library why not check out
-// the source for xlsx2csv here: https://github.com/tealeg/xlsx2csv
+// the source for xlsx2csv here: https://github.com/ashishaffinion/xlsx2csv
 
 package xlsx
